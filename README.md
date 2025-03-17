@@ -1,7 +1,7 @@
 # Python
 0317 파이썬 실습 과정
 
-![이미지 1](myFirst/anaconda.png)
+![이미지 1](2025AI/myFirst/anaconda.png)
 먼저 아나콘다하고 vscode를 설치한다
 
 ![이미지 1](이미지/select.png)
